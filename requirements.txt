@@ -85,6 +85,7 @@ Pygments==2.20.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.1.0
+pywinpty==3.0.3
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
@@ -97,6 +98,7 @@ scikit-learn==1.8.0
 scipy==1.17.1
 Send2Trash==2.1.0
 six==1.17.0
+sounddevice==0.5.5
 soundfile==0.13.1
 soupsieve==2.8.3
 soxr==1.0.0
